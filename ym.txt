@@ -1,0 +1,16 @@
+http://config.into.yipurse.cn/#/login
+
+http://fe.rule.yipurse.cn/#/login
+
+http://fe.debt.yipurse.cn/
+debt.duncredit.com
+
+http://market.yipurse.cn/#/home
+
+http://web.pursedada.com/
+
+http://web.blqb.yipurse.cn:19090/down
+
+http://fe.test.yipurse.cn/authentication/status?appId=yipurse123456789&timestamp=20190530175403&signSystem=110b8b42e3d8d62d5c5958132eff5940&token=3037f5f2932414ce6d790c7d0a7e597a&type=3&platform=android&mobile=13789847050
+
+http://39.105.170.100:18888/?userId=2660823&token=4aa7fa2e2f7e4bc0be0cbfcaaac64948&appName=%E7%82%B9%E7%82%B9%E8%8A%B1&appVersion=254&appOs=Android
